@@ -1,0 +1,5930 @@
+{
+  "actions": [
+    {
+      "type": "travel",
+      "destination": "N9"
+    },
+    {
+      "type": "travel",
+      "destination": "Borealis",
+      "fast": true
+    },
+    {
+      "type": "travel",
+      "destination": "Evermoor"
+    },
+    {
+      "type": "travel",
+      "destination": "Bilgewater"
+    },
+    {
+      "type": "travel",
+      "destination": "N7"
+    },
+    {
+      "type": "travel",
+      "destination": "Noxus"
+    },
+    {
+      "type": "travel",
+      "destination": "N2"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "travel",
+      "destination": "N11"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "travel",
+      "destination": "N2"
+    },
+    {
+      "type": "travel",
+      "destination": "Noxus"
+    },
+    {
+      "type": "travel",
+      "destination": "N7"
+    },
+    {
+      "type": "travel",
+      "destination": "Bilgewater"
+    },
+    {
+      "type": "travel",
+      "destination": "Evermoor"
+    },
+    {
+      "type": "travel",
+      "destination": "Borealis"
+    },
+    {
+      "type": "travel",
+      "destination": "N9",
+      "fast": true
+    },
+    {
+      "type": "travel",
+      "destination": "Demacia"
+    },
+    {
+      "type": "craft",
+      "item": "rope",
+      "quantity": 4
+    },
+    {
+      "type": "travel",
+      "destination": "N9"
+    },
+    {
+      "type": "travel",
+      "destination": "Borealis",
+      "fast": true
+    },
+    {
+      "type": "travel",
+      "destination": "Evermoor"
+    },
+    {
+      "type": "travel",
+      "destination": "Bilgewater"
+    },
+    {
+      "type": "travel",
+      "destination": "N7"
+    },
+    {
+      "type": "travel",
+      "destination": "Noxus"
+    },
+    {
+      "type": "travel",
+      "destination": "N2"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "travel",
+      "destination": "Noxus"
+    },
+    {
+      "type": "travel",
+      "destination": "N7"
+    },
+    {
+      "type": "travel",
+      "destination": "Bilgewater"
+    },
+    {
+      "type": "travel",
+      "destination": "Evermoor"
+    },
+    {
+      "type": "travel",
+      "destination": "Borealis"
+    },
+    {
+      "type": "travel",
+      "destination": "N9",
+      "fast": true
+    },
+    {
+      "type": "travel",
+      "destination": "Demacia"
+    },
+    {
+      "type": "travel",
+      "destination": "N9"
+    },
+    {
+      "type": "travel",
+      "destination": "Borealis",
+      "fast": true
+    },
+    {
+      "type": "travel",
+      "destination": "Evermoor"
+    },
+    {
+      "type": "travel",
+      "destination": "Bilgewater"
+    },
+    {
+      "type": "travel",
+      "destination": "N7"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "travel",
+      "destination": "Bilgewater"
+    },
+    {
+      "type": "travel",
+      "destination": "Evermoor"
+    },
+    {
+      "type": "travel",
+      "destination": "Borealis"
+    },
+    {
+      "type": "travel",
+      "destination": "N9",
+      "fast": true
+    },
+    {
+      "type": "travel",
+      "destination": "Demacia"
+    },
+    {
+      "type": "travel",
+      "destination": "N9"
+    },
+    {
+      "type": "travel",
+      "destination": "Borealis",
+      "fast": true
+    },
+    {
+      "type": "travel",
+      "destination": "Evermoor"
+    },
+    {
+      "type": "travel",
+      "destination": "Bilgewater"
+    },
+    {
+      "type": "travel",
+      "destination": "N7"
+    },
+    {
+      "type": "travel",
+      "destination": "Noxus"
+    },
+    {
+      "type": "travel",
+      "destination": "N2"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "travel",
+      "destination": "Noxus"
+    },
+    {
+      "type": "travel",
+      "destination": "N7"
+    },
+    {
+      "type": "travel",
+      "destination": "Bilgewater"
+    },
+    {
+      "type": "travel",
+      "destination": "Evermoor"
+    },
+    {
+      "type": "travel",
+      "destination": "Borealis"
+    },
+    {
+      "type": "travel",
+      "destination": "N9",
+      "fast": true
+    },
+    {
+      "type": "travel",
+      "destination": "Demacia"
+    },
+    {
+      "type": "travel",
+      "destination": "N9"
+    },
+    {
+      "type": "travel",
+      "destination": "Borealis",
+      "fast": true
+    },
+    {
+      "type": "travel",
+      "destination": "Evermoor"
+    },
+    {
+      "type": "travel",
+      "destination": "Bilgewater"
+    },
+    {
+      "type": "travel",
+      "destination": "N7"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "travel",
+      "destination": "Bilgewater"
+    },
+    {
+      "type": "travel",
+      "destination": "Evermoor"
+    },
+    {
+      "type": "travel",
+      "destination": "Borealis"
+    },
+    {
+      "type": "travel",
+      "destination": "N9",
+      "fast": true
+    },
+    {
+      "type": "travel",
+      "destination": "Demacia"
+    },
+    {
+      "type": "travel",
+      "destination": "N9"
+    },
+    {
+      "type": "travel",
+      "destination": "Borealis",
+      "fast": true
+    },
+    {
+      "type": "travel",
+      "destination": "Evermoor"
+    },
+    {
+      "type": "travel",
+      "destination": "Bilgewater"
+    },
+    {
+      "type": "travel",
+      "destination": "N7"
+    },
+    {
+      "type": "travel",
+      "destination": "Noxus"
+    },
+    {
+      "type": "travel",
+      "destination": "N2"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "travel",
+      "destination": "Noxus"
+    },
+    {
+      "type": "travel",
+      "destination": "N7"
+    },
+    {
+      "type": "travel",
+      "destination": "Bilgewater"
+    },
+    {
+      "type": "travel",
+      "destination": "Evermoor"
+    },
+    {
+      "type": "travel",
+      "destination": "Borealis"
+    },
+    {
+      "type": "travel",
+      "destination": "N9",
+      "fast": true
+    },
+    {
+      "type": "travel",
+      "destination": "Demacia"
+    },
+    {
+      "type": "travel",
+      "destination": "N9"
+    },
+    {
+      "type": "travel",
+      "destination": "Borealis",
+      "fast": true
+    },
+    {
+      "type": "travel",
+      "destination": "Evermoor"
+    },
+    {
+      "type": "travel",
+      "destination": "Bilgewater"
+    },
+    {
+      "type": "travel",
+      "destination": "N7"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "travel",
+      "destination": "Bilgewater"
+    },
+    {
+      "type": "travel",
+      "destination": "Evermoor"
+    },
+    {
+      "type": "travel",
+      "destination": "Borealis"
+    },
+    {
+      "type": "travel",
+      "destination": "N9",
+      "fast": true
+    },
+    {
+      "type": "travel",
+      "destination": "Demacia"
+    },
+    {
+      "type": "travel",
+      "destination": "N9"
+    },
+    {
+      "type": "travel",
+      "destination": "Borealis",
+      "fast": true
+    },
+    {
+      "type": "travel",
+      "destination": "Evermoor"
+    },
+    {
+      "type": "travel",
+      "destination": "Bilgewater"
+    },
+    {
+      "type": "travel",
+      "destination": "N7"
+    },
+    {
+      "type": "travel",
+      "destination": "Noxus"
+    },
+    {
+      "type": "travel",
+      "destination": "N2"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "travel",
+      "destination": "Noxus"
+    },
+    {
+      "type": "travel",
+      "destination": "N7"
+    },
+    {
+      "type": "travel",
+      "destination": "Bilgewater"
+    },
+    {
+      "type": "travel",
+      "destination": "Evermoor"
+    },
+    {
+      "type": "travel",
+      "destination": "Borealis"
+    },
+    {
+      "type": "travel",
+      "destination": "N9",
+      "fast": true
+    },
+    {
+      "type": "travel",
+      "destination": "Demacia"
+    },
+    {
+      "type": "travel",
+      "destination": "N9"
+    },
+    {
+      "type": "travel",
+      "destination": "Borealis",
+      "fast": true
+    },
+    {
+      "type": "travel",
+      "destination": "Evermoor"
+    },
+    {
+      "type": "travel",
+      "destination": "Bilgewater"
+    },
+    {
+      "type": "travel",
+      "destination": "N7"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "travel",
+      "destination": "Bilgewater"
+    },
+    {
+      "type": "travel",
+      "destination": "Evermoor"
+    },
+    {
+      "type": "travel",
+      "destination": "Borealis"
+    },
+    {
+      "type": "travel",
+      "destination": "N9",
+      "fast": true
+    },
+    {
+      "type": "travel",
+      "destination": "Demacia"
+    },
+    {
+      "type": "travel",
+      "destination": "N9"
+    },
+    {
+      "type": "travel",
+      "destination": "Borealis",
+      "fast": true
+    },
+    {
+      "type": "travel",
+      "destination": "Evermoor"
+    },
+    {
+      "type": "travel",
+      "destination": "Bilgewater"
+    },
+    {
+      "type": "travel",
+      "destination": "N7"
+    },
+    {
+      "type": "travel",
+      "destination": "Noxus"
+    },
+    {
+      "type": "travel",
+      "destination": "N2"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "travel",
+      "destination": "Noxus"
+    },
+    {
+      "type": "travel",
+      "destination": "N7"
+    },
+    {
+      "type": "travel",
+      "destination": "Bilgewater"
+    },
+    {
+      "type": "travel",
+      "destination": "Evermoor"
+    },
+    {
+      "type": "travel",
+      "destination": "Borealis"
+    },
+    {
+      "type": "travel",
+      "destination": "N9",
+      "fast": true
+    },
+    {
+      "type": "travel",
+      "destination": "Demacia"
+    },
+    {
+      "type": "travel",
+      "destination": "N9"
+    },
+    {
+      "type": "travel",
+      "destination": "Borealis",
+      "fast": true
+    },
+    {
+      "type": "travel",
+      "destination": "Evermoor"
+    },
+    {
+      "type": "travel",
+      "destination": "Bilgewater"
+    },
+    {
+      "type": "travel",
+      "destination": "N7"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "travel",
+      "destination": "Bilgewater"
+    },
+    {
+      "type": "travel",
+      "destination": "Evermoor"
+    },
+    {
+      "type": "travel",
+      "destination": "Borealis"
+    },
+    {
+      "type": "travel",
+      "destination": "N9",
+      "fast": true
+    },
+    {
+      "type": "travel",
+      "destination": "Demacia"
+    },
+    {
+      "type": "travel",
+      "destination": "N9"
+    },
+    {
+      "type": "travel",
+      "destination": "Borealis",
+      "fast": true
+    },
+    {
+      "type": "travel",
+      "destination": "Evermoor"
+    },
+    {
+      "type": "travel",
+      "destination": "Bilgewater"
+    },
+    {
+      "type": "travel",
+      "destination": "N7"
+    },
+    {
+      "type": "travel",
+      "destination": "Noxus"
+    },
+    {
+      "type": "travel",
+      "destination": "N2"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "travel",
+      "destination": "Noxus"
+    },
+    {
+      "type": "travel",
+      "destination": "N7"
+    },
+    {
+      "type": "travel",
+      "destination": "Bilgewater"
+    },
+    {
+      "type": "travel",
+      "destination": "Evermoor"
+    },
+    {
+      "type": "travel",
+      "destination": "Borealis"
+    },
+    {
+      "type": "travel",
+      "destination": "N9",
+      "fast": true
+    },
+    {
+      "type": "travel",
+      "destination": "Demacia"
+    },
+    {
+      "type": "travel",
+      "destination": "N9"
+    },
+    {
+      "type": "travel",
+      "destination": "Borealis",
+      "fast": true
+    },
+    {
+      "type": "travel",
+      "destination": "Evermoor"
+    },
+    {
+      "type": "travel",
+      "destination": "Bilgewater"
+    },
+    {
+      "type": "travel",
+      "destination": "N7"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "travel",
+      "destination": "Bilgewater"
+    },
+    {
+      "type": "travel",
+      "destination": "Evermoor"
+    },
+    {
+      "type": "travel",
+      "destination": "Borealis"
+    },
+    {
+      "type": "travel",
+      "destination": "N9",
+      "fast": true
+    },
+    {
+      "type": "travel",
+      "destination": "Demacia"
+    },
+    {
+      "type": "travel",
+      "destination": "N9"
+    },
+    {
+      "type": "travel",
+      "destination": "Borealis",
+      "fast": true
+    },
+    {
+      "type": "travel",
+      "destination": "Evermoor"
+    },
+    {
+      "type": "travel",
+      "destination": "Bilgewater"
+    },
+    {
+      "type": "travel",
+      "destination": "N7"
+    },
+    {
+      "type": "travel",
+      "destination": "Noxus"
+    },
+    {
+      "type": "travel",
+      "destination": "N2"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "travel",
+      "destination": "Noxus"
+    },
+    {
+      "type": "travel",
+      "destination": "N7"
+    },
+    {
+      "type": "travel",
+      "destination": "Bilgewater"
+    },
+    {
+      "type": "travel",
+      "destination": "Evermoor"
+    },
+    {
+      "type": "travel",
+      "destination": "Borealis"
+    },
+    {
+      "type": "travel",
+      "destination": "N9",
+      "fast": true
+    },
+    {
+      "type": "travel",
+      "destination": "Demacia"
+    },
+    {
+      "type": "travel",
+      "destination": "N9"
+    },
+    {
+      "type": "travel",
+      "destination": "Borealis",
+      "fast": true
+    },
+    {
+      "type": "travel",
+      "destination": "Evermoor"
+    },
+    {
+      "type": "travel",
+      "destination": "Bilgewater"
+    },
+    {
+      "type": "travel",
+      "destination": "N7"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "travel",
+      "destination": "Bilgewater"
+    },
+    {
+      "type": "travel",
+      "destination": "Evermoor"
+    },
+    {
+      "type": "travel",
+      "destination": "Borealis"
+    },
+    {
+      "type": "travel",
+      "destination": "N9",
+      "fast": true
+    },
+    {
+      "type": "travel",
+      "destination": "Demacia"
+    },
+    {
+      "type": "travel",
+      "destination": "N9"
+    },
+    {
+      "type": "travel",
+      "destination": "Borealis",
+      "fast": true
+    },
+    {
+      "type": "travel",
+      "destination": "Evermoor"
+    },
+    {
+      "type": "travel",
+      "destination": "Bilgewater"
+    },
+    {
+      "type": "travel",
+      "destination": "N7"
+    },
+    {
+      "type": "travel",
+      "destination": "Noxus"
+    },
+    {
+      "type": "travel",
+      "destination": "N2"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "travel",
+      "destination": "Noxus"
+    },
+    {
+      "type": "travel",
+      "destination": "N7"
+    },
+    {
+      "type": "travel",
+      "destination": "Bilgewater"
+    },
+    {
+      "type": "travel",
+      "destination": "Evermoor"
+    },
+    {
+      "type": "travel",
+      "destination": "Borealis"
+    },
+    {
+      "type": "travel",
+      "destination": "N9",
+      "fast": true
+    },
+    {
+      "type": "travel",
+      "destination": "Demacia"
+    },
+    {
+      "type": "travel",
+      "destination": "N9"
+    },
+    {
+      "type": "travel",
+      "destination": "Borealis",
+      "fast": true
+    },
+    {
+      "type": "travel",
+      "destination": "Evermoor"
+    },
+    {
+      "type": "travel",
+      "destination": "Bilgewater"
+    },
+    {
+      "type": "travel",
+      "destination": "N7"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "travel",
+      "destination": "Bilgewater"
+    },
+    {
+      "type": "travel",
+      "destination": "Evermoor"
+    },
+    {
+      "type": "travel",
+      "destination": "Borealis"
+    },
+    {
+      "type": "travel",
+      "destination": "N9",
+      "fast": true
+    },
+    {
+      "type": "travel",
+      "destination": "Demacia"
+    },
+    {
+      "type": "travel",
+      "destination": "N9"
+    },
+    {
+      "type": "travel",
+      "destination": "Borealis",
+      "fast": true
+    },
+    {
+      "type": "travel",
+      "destination": "Evermoor"
+    },
+    {
+      "type": "travel",
+      "destination": "Bilgewater"
+    },
+    {
+      "type": "travel",
+      "destination": "N7"
+    },
+    {
+      "type": "travel",
+      "destination": "Noxus"
+    },
+    {
+      "type": "travel",
+      "destination": "N2"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "travel",
+      "destination": "Noxus"
+    },
+    {
+      "type": "travel",
+      "destination": "N7"
+    },
+    {
+      "type": "travel",
+      "destination": "Bilgewater"
+    },
+    {
+      "type": "travel",
+      "destination": "Evermoor"
+    },
+    {
+      "type": "travel",
+      "destination": "Borealis"
+    },
+    {
+      "type": "travel",
+      "destination": "N9",
+      "fast": true
+    },
+    {
+      "type": "travel",
+      "destination": "Demacia"
+    },
+    {
+      "type": "travel",
+      "destination": "N9"
+    },
+    {
+      "type": "travel",
+      "destination": "Borealis",
+      "fast": true
+    },
+    {
+      "type": "travel",
+      "destination": "Evermoor"
+    },
+    {
+      "type": "travel",
+      "destination": "Bilgewater"
+    },
+    {
+      "type": "travel",
+      "destination": "N7"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "travel",
+      "destination": "Bilgewater"
+    },
+    {
+      "type": "travel",
+      "destination": "Evermoor"
+    },
+    {
+      "type": "travel",
+      "destination": "Borealis"
+    },
+    {
+      "type": "travel",
+      "destination": "N9",
+      "fast": true
+    },
+    {
+      "type": "travel",
+      "destination": "Demacia"
+    },
+    {
+      "type": "travel",
+      "destination": "N9"
+    },
+    {
+      "type": "travel",
+      "destination": "Borealis",
+      "fast": true
+    },
+    {
+      "type": "travel",
+      "destination": "Evermoor"
+    },
+    {
+      "type": "travel",
+      "destination": "Bilgewater"
+    },
+    {
+      "type": "travel",
+      "destination": "N7"
+    },
+    {
+      "type": "travel",
+      "destination": "Noxus"
+    },
+    {
+      "type": "travel",
+      "destination": "N2"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "travel",
+      "destination": "N11"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "travel",
+      "destination": "N2"
+    },
+    {
+      "type": "travel",
+      "destination": "Noxus"
+    },
+    {
+      "type": "travel",
+      "destination": "N7"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "travel",
+      "destination": "Bilgewater"
+    },
+    {
+      "type": "travel",
+      "destination": "Evermoor"
+    },
+    {
+      "type": "travel",
+      "destination": "Borealis"
+    },
+    {
+      "type": "travel",
+      "destination": "N9",
+      "fast": true
+    },
+    {
+      "type": "travel",
+      "destination": "Demacia"
+    },
+    {
+      "type": "craft",
+      "item": "rope",
+      "quantity": 11
+    },
+    {
+      "type": "travel",
+      "destination": "N9"
+    },
+    {
+      "type": "travel",
+      "destination": "Borealis",
+      "fast": true
+    },
+    {
+      "type": "travel",
+      "destination": "Evermoor"
+    },
+    {
+      "type": "travel",
+      "destination": "Bilgewater"
+    },
+    {
+      "type": "travel",
+      "destination": "N7"
+    },
+    {
+      "type": "travel",
+      "destination": "Noxus"
+    },
+    {
+      "type": "travel",
+      "destination": "N2"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "travel",
+      "destination": "N11"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "travel",
+      "destination": "N2"
+    },
+    {
+      "type": "travel",
+      "destination": "Noxus"
+    },
+    {
+      "type": "travel",
+      "destination": "N7"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "travel",
+      "destination": "Bilgewater"
+    },
+    {
+      "type": "travel",
+      "destination": "Evermoor"
+    },
+    {
+      "type": "travel",
+      "destination": "Borealis"
+    },
+    {
+      "type": "travel",
+      "destination": "N9",
+      "fast": true
+    },
+    {
+      "type": "travel",
+      "destination": "Demacia"
+    },
+    {
+      "type": "craft",
+      "item": "rope",
+      "quantity": 11
+    },
+    {
+      "type": "travel",
+      "destination": "N9"
+    },
+    {
+      "type": "travel",
+      "destination": "Borealis",
+      "fast": true
+    },
+    {
+      "type": "travel",
+      "destination": "Evermoor"
+    },
+    {
+      "type": "travel",
+      "destination": "Bilgewater"
+    },
+    {
+      "type": "travel",
+      "destination": "N7"
+    },
+    {
+      "type": "travel",
+      "destination": "Noxus"
+    },
+    {
+      "type": "travel",
+      "destination": "N2"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "travel",
+      "destination": "N11"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "travel",
+      "destination": "N2"
+    },
+    {
+      "type": "travel",
+      "destination": "Noxus"
+    },
+    {
+      "type": "travel",
+      "destination": "N7"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "travel",
+      "destination": "Bilgewater"
+    },
+    {
+      "type": "travel",
+      "destination": "Evermoor"
+    },
+    {
+      "type": "travel",
+      "destination": "Borealis"
+    },
+    {
+      "type": "travel",
+      "destination": "N9",
+      "fast": true
+    },
+    {
+      "type": "travel",
+      "destination": "Demacia"
+    },
+    {
+      "type": "craft",
+      "item": "rope",
+      "quantity": 11
+    },
+    {
+      "type": "travel",
+      "destination": "N9"
+    },
+    {
+      "type": "travel",
+      "destination": "Borealis",
+      "fast": true
+    },
+    {
+      "type": "travel",
+      "destination": "Evermoor"
+    },
+    {
+      "type": "travel",
+      "destination": "Bilgewater"
+    },
+    {
+      "type": "travel",
+      "destination": "N8"
+    },
+    {
+      "type": "travel",
+      "destination": "Aurora"
+    },
+    {
+      "type": "travel",
+      "destination": "Piltover"
+    },
+    {
+      "type": "travel",
+      "destination": "Aurora"
+    },
+    {
+      "type": "travel",
+      "destination": "N11",
+      "fast": true
+    },
+    {
+      "type": "travel",
+      "destination": "N2"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "travel",
+      "destination": "N11"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "travel",
+      "destination": "N2"
+    },
+    {
+      "type": "travel",
+      "destination": "Noxus"
+    },
+    {
+      "type": "travel",
+      "destination": "N7"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "travel",
+      "destination": "Bilgewater"
+    },
+    {
+      "type": "travel",
+      "destination": "Evermoor"
+    },
+    {
+      "type": "travel",
+      "destination": "Borealis"
+    },
+    {
+      "type": "travel",
+      "destination": "N9",
+      "fast": true
+    },
+    {
+      "type": "travel",
+      "destination": "Demacia"
+    },
+    {
+      "type": "craft",
+      "item": "rope",
+      "quantity": 11
+    },
+    {
+      "type": "travel",
+      "destination": "N9"
+    },
+    {
+      "type": "travel",
+      "destination": "Borealis",
+      "fast": true
+    },
+    {
+      "type": "travel",
+      "destination": "Evermoor"
+    },
+    {
+      "type": "travel",
+      "destination": "Bilgewater"
+    },
+    {
+      "type": "travel",
+      "destination": "N17"
+    },
+    {
+      "type": "travel",
+      "destination": "Bandle",
+      "fast": true
+    },
+    {
+      "type": "travel",
+      "destination": "Ionia"
+    },
+    {
+      "type": "travel",
+      "destination": "Bandle"
+    },
+    {
+      "type": "travel",
+      "destination": "N17",
+      "fast": true
+    },
+    {
+      "type": "travel",
+      "destination": "Bilgewater"
+    },
+    {
+      "type": "travel",
+      "destination": "N7"
+    },
+    {
+      "type": "travel",
+      "destination": "Noxus"
+    },
+    {
+      "type": "travel",
+      "destination": "N2"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "travel",
+      "destination": "N11"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "travel",
+      "destination": "N2"
+    },
+    {
+      "type": "travel",
+      "destination": "Noxus"
+    },
+    {
+      "type": "travel",
+      "destination": "N7"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "travel",
+      "destination": "Bilgewater"
+    },
+    {
+      "type": "travel",
+      "destination": "Evermoor"
+    },
+    {
+      "type": "travel",
+      "destination": "Borealis"
+    },
+    {
+      "type": "travel",
+      "destination": "N9",
+      "fast": true
+    },
+    {
+      "type": "travel",
+      "destination": "Demacia"
+    },
+    {
+      "type": "craft",
+      "item": "rope",
+      "quantity": 11
+    },
+    {
+      "type": "travel",
+      "destination": "N9"
+    },
+    {
+      "type": "travel",
+      "destination": "Borealis",
+      "fast": true
+    },
+    {
+      "type": "travel",
+      "destination": "Evermoor"
+    },
+    {
+      "type": "travel",
+      "destination": "Ixtal"
+    },
+    {
+      "type": "travel",
+      "destination": "N6"
+    },
+    {
+      "type": "travel",
+      "destination": "N18",
+      "fast": true
+    },
+    {
+      "type": "travel",
+      "destination": "Freljord"
+    },
+    {
+      "type": "travel",
+      "destination": "Aurora"
+    },
+    {
+      "type": "travel",
+      "destination": "N11",
+      "fast": true
+    },
+    {
+      "type": "travel",
+      "destination": "N2"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "travel",
+      "destination": "N11"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "travel",
+      "destination": "N2"
+    },
+    {
+      "type": "travel",
+      "destination": "Noxus"
+    },
+    {
+      "type": "travel",
+      "destination": "N7"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "travel",
+      "destination": "Bilgewater"
+    },
+    {
+      "type": "travel",
+      "destination": "Evermoor"
+    },
+    {
+      "type": "travel",
+      "destination": "Borealis"
+    },
+    {
+      "type": "travel",
+      "destination": "N9",
+      "fast": true
+    },
+    {
+      "type": "travel",
+      "destination": "Demacia"
+    },
+    {
+      "type": "craft",
+      "item": "rope",
+      "quantity": 11
+    },
+    {
+      "type": "travel",
+      "destination": "N9"
+    },
+    {
+      "type": "travel",
+      "destination": "Borealis",
+      "fast": true
+    },
+    {
+      "type": "travel",
+      "destination": "Evermoor"
+    },
+    {
+      "type": "travel",
+      "destination": "Bilgewater"
+    },
+    {
+      "type": "travel",
+      "destination": "N7"
+    },
+    {
+      "type": "travel",
+      "destination": "Noxus"
+    },
+    {
+      "type": "travel",
+      "destination": "N2"
+    },
+    {
+      "type": "travel",
+      "destination": "N11"
+    },
+    {
+      "type": "travel",
+      "destination": "N5"
+    },
+    {
+      "type": "travel",
+      "destination": "Zaun"
+    },
+    {
+      "type": "travel",
+      "destination": "N5"
+    },
+    {
+      "type": "travel",
+      "destination": "N11"
+    },
+    {
+      "type": "travel",
+      "destination": "N2"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "travel",
+      "destination": "N11"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "travel",
+      "destination": "N2"
+    },
+    {
+      "type": "travel",
+      "destination": "Noxus"
+    },
+    {
+      "type": "travel",
+      "destination": "N7"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "travel",
+      "destination": "Bilgewater"
+    },
+    {
+      "type": "travel",
+      "destination": "Evermoor"
+    },
+    {
+      "type": "travel",
+      "destination": "Borealis"
+    },
+    {
+      "type": "travel",
+      "destination": "N9",
+      "fast": true
+    },
+    {
+      "type": "travel",
+      "destination": "Demacia"
+    },
+    {
+      "type": "craft",
+      "item": "rope",
+      "quantity": 11
+    },
+    {
+      "type": "travel",
+      "destination": "N9"
+    },
+    {
+      "type": "travel",
+      "destination": "Borealis",
+      "fast": true
+    },
+    {
+      "type": "travel",
+      "destination": "Evermoor"
+    },
+    {
+      "type": "travel",
+      "destination": "Bilgewater"
+    },
+    {
+      "type": "travel",
+      "destination": "N21"
+    },
+    {
+      "type": "travel",
+      "destination": "Shurima"
+    },
+    {
+      "type": "travel",
+      "destination": "N10"
+    },
+    {
+      "type": "travel",
+      "destination": "N7",
+      "fast": true
+    },
+    {
+      "type": "travel",
+      "destination": "Noxus"
+    },
+    {
+      "type": "travel",
+      "destination": "N2"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "travel",
+      "destination": "N11"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "travel",
+      "destination": "N2"
+    },
+    {
+      "type": "travel",
+      "destination": "Noxus"
+    },
+    {
+      "type": "travel",
+      "destination": "N7"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "travel",
+      "destination": "Bilgewater"
+    },
+    {
+      "type": "travel",
+      "destination": "Evermoor"
+    },
+    {
+      "type": "travel",
+      "destination": "Borealis"
+    },
+    {
+      "type": "travel",
+      "destination": "N9",
+      "fast": true
+    },
+    {
+      "type": "travel",
+      "destination": "Demacia"
+    },
+    {
+      "type": "craft",
+      "item": "rope",
+      "quantity": 11
+    },
+    {
+      "type": "travel",
+      "destination": "N9"
+    },
+    {
+      "type": "travel",
+      "destination": "Borealis",
+      "fast": true
+    },
+    {
+      "type": "travel",
+      "destination": "Evermoor"
+    },
+    {
+      "type": "travel",
+      "destination": "Bilgewater"
+    },
+    {
+      "type": "travel",
+      "destination": "N7"
+    },
+    {
+      "type": "travel",
+      "destination": "Noxus"
+    },
+    {
+      "type": "travel",
+      "destination": "N2"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "travel",
+      "destination": "N11"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "travel",
+      "destination": "N2"
+    },
+    {
+      "type": "travel",
+      "destination": "Noxus"
+    },
+    {
+      "type": "travel",
+      "destination": "N7"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "travel",
+      "destination": "Bilgewater"
+    },
+    {
+      "type": "travel",
+      "destination": "Evermoor"
+    },
+    {
+      "type": "travel",
+      "destination": "Borealis"
+    },
+    {
+      "type": "travel",
+      "destination": "N9",
+      "fast": true
+    },
+    {
+      "type": "travel",
+      "destination": "Demacia"
+    },
+    {
+      "type": "craft",
+      "item": "rope",
+      "quantity": 11
+    },
+    {
+      "type": "travel",
+      "destination": "N9"
+    },
+    {
+      "type": "travel",
+      "destination": "Borealis",
+      "fast": true
+    },
+    {
+      "type": "travel",
+      "destination": "Evermoor"
+    },
+    {
+      "type": "travel",
+      "destination": "Bilgewater"
+    },
+    {
+      "type": "travel",
+      "destination": "N8"
+    },
+    {
+      "type": "travel",
+      "destination": "N20"
+    },
+    {
+      "type": "travel",
+      "destination": "Targon"
+    },
+    {
+      "type": "travel",
+      "destination": "N4"
+    },
+    {
+      "type": "travel",
+      "destination": "Zaun"
+    },
+    {
+      "type": "travel",
+      "destination": "N5"
+    },
+    {
+      "type": "travel",
+      "destination": "N11"
+    },
+    {
+      "type": "travel",
+      "destination": "N2"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "travel",
+      "destination": "N11"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "travel",
+      "destination": "N2"
+    },
+    {
+      "type": "travel",
+      "destination": "Noxus"
+    },
+    {
+      "type": "travel",
+      "destination": "N7"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "travel",
+      "destination": "Bilgewater"
+    },
+    {
+      "type": "travel",
+      "destination": "Evermoor"
+    },
+    {
+      "type": "travel",
+      "destination": "Borealis"
+    },
+    {
+      "type": "travel",
+      "destination": "N9",
+      "fast": true
+    },
+    {
+      "type": "travel",
+      "destination": "Demacia"
+    },
+    {
+      "type": "craft",
+      "item": "rope",
+      "quantity": 11
+    },
+    {
+      "type": "travel",
+      "destination": "N9"
+    },
+    {
+      "type": "travel",
+      "destination": "Borealis",
+      "fast": true
+    },
+    {
+      "type": "travel",
+      "destination": "Evermoor"
+    },
+    {
+      "type": "travel",
+      "destination": "Ixtal"
+    },
+    {
+      "type": "travel",
+      "destination": "N6"
+    },
+    {
+      "type": "travel",
+      "destination": "N18",
+      "fast": true
+    },
+    {
+      "type": "travel",
+      "destination": "Freljord"
+    },
+    {
+      "type": "travel",
+      "destination": "Aurora"
+    },
+    {
+      "type": "travel",
+      "destination": "N11",
+      "fast": true
+    },
+    {
+      "type": "travel",
+      "destination": "N2"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "travel",
+      "destination": "N11"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "travel",
+      "destination": "N2"
+    },
+    {
+      "type": "travel",
+      "destination": "Noxus"
+    },
+    {
+      "type": "travel",
+      "destination": "N7"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "travel",
+      "destination": "Bilgewater"
+    },
+    {
+      "type": "travel",
+      "destination": "Evermoor"
+    },
+    {
+      "type": "travel",
+      "destination": "Borealis"
+    },
+    {
+      "type": "travel",
+      "destination": "N9",
+      "fast": true
+    },
+    {
+      "type": "travel",
+      "destination": "Demacia"
+    },
+    {
+      "type": "craft",
+      "item": "rope",
+      "quantity": 11
+    },
+    {
+      "type": "travel",
+      "destination": "N9"
+    },
+    {
+      "type": "travel",
+      "destination": "Borealis",
+      "fast": true
+    },
+    {
+      "type": "travel",
+      "destination": "Evermoor"
+    },
+    {
+      "type": "travel",
+      "destination": "Bilgewater"
+    },
+    {
+      "type": "travel",
+      "destination": "N17"
+    },
+    {
+      "type": "travel",
+      "destination": "Bandle",
+      "fast": true
+    },
+    {
+      "type": "travel",
+      "destination": "N17",
+      "fast": true
+    },
+    {
+      "type": "travel",
+      "destination": "Bilgewater"
+    },
+    {
+      "type": "travel",
+      "destination": "N7"
+    },
+    {
+      "type": "travel",
+      "destination": "Noxus"
+    },
+    {
+      "type": "travel",
+      "destination": "N2"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "travel",
+      "destination": "N11"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "travel",
+      "destination": "N2"
+    },
+    {
+      "type": "travel",
+      "destination": "Noxus"
+    },
+    {
+      "type": "travel",
+      "destination": "N7"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "travel",
+      "destination": "Bilgewater"
+    },
+    {
+      "type": "travel",
+      "destination": "Evermoor"
+    },
+    {
+      "type": "travel",
+      "destination": "Borealis"
+    },
+    {
+      "type": "travel",
+      "destination": "N9",
+      "fast": true
+    },
+    {
+      "type": "travel",
+      "destination": "Demacia"
+    },
+    {
+      "type": "craft",
+      "item": "rope",
+      "quantity": 11
+    },
+    {
+      "type": "travel",
+      "destination": "N9"
+    },
+    {
+      "type": "travel",
+      "destination": "Borealis",
+      "fast": true
+    },
+    {
+      "type": "travel",
+      "destination": "Evermoor"
+    },
+    {
+      "type": "travel",
+      "destination": "Bilgewater"
+    },
+    {
+      "type": "travel",
+      "destination": "N8"
+    },
+    {
+      "type": "travel",
+      "destination": "Aurora"
+    },
+    {
+      "type": "travel",
+      "destination": "N11",
+      "fast": true
+    },
+    {
+      "type": "travel",
+      "destination": "N2"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "travel",
+      "destination": "N11"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "travel",
+      "destination": "N2"
+    },
+    {
+      "type": "travel",
+      "destination": "Noxus"
+    },
+    {
+      "type": "travel",
+      "destination": "N7"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "travel",
+      "destination": "Bilgewater"
+    },
+    {
+      "type": "travel",
+      "destination": "Evermoor"
+    },
+    {
+      "type": "travel",
+      "destination": "Borealis"
+    },
+    {
+      "type": "travel",
+      "destination": "N9",
+      "fast": true
+    },
+    {
+      "type": "travel",
+      "destination": "Demacia"
+    },
+    {
+      "type": "craft",
+      "item": "rope",
+      "quantity": 11
+    },
+    {
+      "type": "travel",
+      "destination": "N9"
+    },
+    {
+      "type": "travel",
+      "destination": "Borealis",
+      "fast": true
+    },
+    {
+      "type": "travel",
+      "destination": "Evermoor"
+    },
+    {
+      "type": "travel",
+      "destination": "Bilgewater"
+    },
+    {
+      "type": "travel",
+      "destination": "N7"
+    },
+    {
+      "type": "travel",
+      "destination": "Noxus"
+    },
+    {
+      "type": "travel",
+      "destination": "N2"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "travel",
+      "destination": "N11"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "travel",
+      "destination": "N2"
+    },
+    {
+      "type": "travel",
+      "destination": "Noxus"
+    },
+    {
+      "type": "travel",
+      "destination": "N7"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "travel",
+      "destination": "Bilgewater"
+    },
+    {
+      "type": "travel",
+      "destination": "Evermoor"
+    },
+    {
+      "type": "travel",
+      "destination": "Borealis"
+    },
+    {
+      "type": "travel",
+      "destination": "N9",
+      "fast": true
+    },
+    {
+      "type": "travel",
+      "destination": "Demacia"
+    },
+    {
+      "type": "craft",
+      "item": "rope",
+      "quantity": 11
+    },
+    {
+      "type": "travel",
+      "destination": "N9"
+    },
+    {
+      "type": "travel",
+      "destination": "Borealis",
+      "fast": true
+    },
+    {
+      "type": "travel",
+      "destination": "Evermoor"
+    },
+    {
+      "type": "travel",
+      "destination": "Bilgewater"
+    },
+    {
+      "type": "travel",
+      "destination": "N7"
+    },
+    {
+      "type": "travel",
+      "destination": "Noxus"
+    },
+    {
+      "type": "travel",
+      "destination": "N2"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "travel",
+      "destination": "N11"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "travel",
+      "destination": "N2"
+    },
+    {
+      "type": "travel",
+      "destination": "Noxus"
+    },
+    {
+      "type": "travel",
+      "destination": "N7"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "travel",
+      "destination": "Bilgewater"
+    },
+    {
+      "type": "travel",
+      "destination": "Evermoor"
+    },
+    {
+      "type": "travel",
+      "destination": "Borealis"
+    },
+    {
+      "type": "travel",
+      "destination": "N9",
+      "fast": true
+    },
+    {
+      "type": "travel",
+      "destination": "Demacia"
+    },
+    {
+      "type": "craft",
+      "item": "rope",
+      "quantity": 11
+    },
+    {
+      "type": "travel",
+      "destination": "N9"
+    },
+    {
+      "type": "travel",
+      "destination": "Borealis",
+      "fast": true
+    },
+    {
+      "type": "travel",
+      "destination": "Evermoor"
+    },
+    {
+      "type": "travel",
+      "destination": "Bilgewater"
+    },
+    {
+      "type": "travel",
+      "destination": "N7"
+    },
+    {
+      "type": "travel",
+      "destination": "Noxus"
+    },
+    {
+      "type": "travel",
+      "destination": "N2"
+    },
+    {
+      "type": "travel",
+      "destination": "N11"
+    },
+    {
+      "type": "travel",
+      "destination": "Highgarden",
+      "fast": true
+    }
+  ]
+}

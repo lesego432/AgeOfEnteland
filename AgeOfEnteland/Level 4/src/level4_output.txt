@@ -1,0 +1,3830 @@
+{
+  "actions": [
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "craft",
+      "item": "iron-fittings",
+      "quantity": 1
+    },
+    {
+      "type": "craft",
+      "item": "rope",
+      "quantity": 1
+    },
+    {
+      "type": "craft",
+      "item": "planks",
+      "quantity": 1
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "craft",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "craft",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "craft",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "craft",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "sell",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "sell",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "sell",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "sell",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "craft",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "craft",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "craft",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "craft",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "sell",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "sell",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "sell",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "sell",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "craft",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "craft",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "craft",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "craft",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "sell",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "sell",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "sell",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "sell",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "craft",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "craft",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "craft",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "craft",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "sell",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "sell",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "sell",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "sell",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "craft",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "craft",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "craft",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "craft",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "sell",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "sell",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "sell",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "sell",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "craft",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "craft",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "craft",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "craft",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "sell",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "sell",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "sell",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "sell",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "craft",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "craft",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "craft",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "craft",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "sell",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "sell",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "sell",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "sell",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "craft",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "craft",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "craft",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "craft",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "sell",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "sell",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "sell",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "sell",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "craft",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "craft",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "craft",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "craft",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "sell",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "sell",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "sell",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "sell",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "craft",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "craft",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "craft",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "craft",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "sell",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "sell",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "sell",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "sell",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "craft",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "craft",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "craft",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "craft",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "sell",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "sell",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "sell",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "sell",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "craft",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "craft",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "craft",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "craft",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "sell",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "sell",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "sell",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "sell",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "craft",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "craft",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "craft",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "craft",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "sell",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "sell",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "sell",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "sell",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "craft",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "craft",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "craft",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "craft",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "sell",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "sell",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "sell",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "sell",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "craft",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "craft",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "craft",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "craft",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "sell",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "sell",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "sell",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "sell",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "craft",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "craft",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "craft",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "craft",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "sell",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "sell",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "sell",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "sell",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "craft",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "craft",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "craft",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "craft",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "sell",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "sell",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "sell",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "sell",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "craft",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "craft",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "craft",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "craft",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "sell",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "sell",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "sell",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "sell",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "craft",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "craft",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "craft",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "craft",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "sell",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "sell",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "sell",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "sell",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "craft",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "craft",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "craft",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "craft",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "sell",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "sell",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "sell",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "sell",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "craft",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "craft",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "craft",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "craft",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "sell",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "sell",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "sell",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "sell",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "craft",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "craft",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "craft",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "craft",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "sell",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "sell",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "sell",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "sell",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "craft",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "craft",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "craft",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "craft",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "sell",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "sell",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "sell",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "sell",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "craft",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "craft",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "craft",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "craft",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "sell",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "sell",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "sell",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "sell",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "craft",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "craft",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "craft",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "craft",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "sell",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "sell",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "sell",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "sell",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "craft",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "craft",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "craft",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "craft",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "sell",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "sell",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "sell",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "sell",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "craft",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "craft",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "craft",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "craft",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "sell",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "sell",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "sell",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "sell",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "craft",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "craft",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "craft",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "craft",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "sell",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "sell",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "sell",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "sell",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "craft",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "craft",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "craft",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "craft",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "sell",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "sell",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "sell",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "sell",
+      "item": "roof-tiles",
+      "quantity": 1
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "craft",
+      "item": "thatch",
+      "quantity": 1
+    }
+  ]
+}

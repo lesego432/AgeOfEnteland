@@ -1,0 +1,59 @@
+{
+  "run": {
+    "total_ticks": 500,
+    "starting_town": "Demacia",
+    "starting_enteloot": 200
+  },
+  "towns": {
+    "Demacia": {
+      "production": {
+        "rate": 10,
+        "resources": {
+          "wheat": 2
+        }
+      },
+      "enteloot": {
+        "rate": 5,
+        "amount": 1000
+      }
+    },
+    "Piltover": {
+      "production": {
+        "rate": 10,
+        "resources": {
+          "fish": 2
+        }
+      },
+      "enteloot": {
+        "rate": 2,
+        "amount": 400
+      }
+    }
+  },
+  "nodes": {
+    "N1": {
+      "type": "fields",
+      "resource": "wheat",
+      "yield": 6,
+      "gather-time": 2
+    }
+  },
+  "routes": [
+    {
+      "between": [
+        "Demacia",
+        "N1"
+      ],
+      "weight": 2,
+      "toll": 0
+    },
+    {
+      "between": [
+        "N1",
+        "Piltover"
+      ],
+      "weight": 3,
+      "toll": 0
+    }
+  ]
+}
